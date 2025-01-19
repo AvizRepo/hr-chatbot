@@ -12,7 +12,7 @@ This project implements a simple HR chatbot for TechVed, as part of a coding ass
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/AvizRepo/hr-chatbot.git
     cd techved-hr-chatbot
     ```
 
