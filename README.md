@@ -13,7 +13,7 @@ This project implements a simple HR chatbot for TechVed, as part of a coding ass
 
     ```bash
     git clone https://github.com/AvizRepo/hr-chatbot.git
-    cd techved-hr-chatbot
+    cd hr-chatbot
     ```
 
 2. **Install Node.js dependencies:**
