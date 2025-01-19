@@ -1,6 +1,6 @@
 # HR Chatbot
 
-This project implements a simple HR chatbot for TechVed, as part of a coding assignment. The chatbot is designed to answer basic HR-related questions and handle leave requests.
+This project implements a simple HR chatbot. The chatbot is designed to answer basic HR-related queries and also can handle leave requests.
 
 ## Prerequisites
 
